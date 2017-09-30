@@ -57,6 +57,7 @@ IBM의 메인프레임 컴퓨터(대형컴퓨터)들도 소스 코드가 포함�
 Tiny basic은 현재에도 사용되는 기기가 존재한다. (참고로, BASIC은 프로그래밍 언어이다.)
 
 ![tiny bricks](http://www.tinybasic.de/images/TinyBrickEvalBrd_small.jpg)
+
 ----------------------------------
 
 ### 유닉스 및 C언어의 탄생
