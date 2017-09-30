@@ -8,4 +8,7 @@
     * [라이선스 소개] https://olis.or.kr/license/introduction.do
     * [라이선스 종류] https://olis.or.kr/license/licenseClassiFication.do
 
+* [오픈소스 프로젝트 사례] Top 10 OpenSource Projects (www.opensource.com)
+
+* [사용추세 및 현황] 가트너 (http://www.gartner.com)
 
