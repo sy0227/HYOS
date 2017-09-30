@@ -24,8 +24,6 @@
 
 * IBM policy draws fire, https://books.google.co.kr/books?id=4Wgmey4obagC&pg=PA13&lpg=PA13&dq=computerworld+March++1985&source=bl&ots=YhqkcCk7BI&sig=e7_pCcCSs1dQGFzBdxhglggkNks&hl=ko&sa=X&ved=0ahUKEwi-_rm9mczWAhWFfbwKHQHgD_cQ6AEIOjAD#v=onepage&q=computerworld%20March%20%201985&f=false
 
-* Compute1, https://en.wikipedia.org/wiki/Compute!
-
 *  BASIC computer games, http://www.digibarn.com/collections/books/basicgames/
 
 * DECUS tapes image, https://collections.museumvictoria.com.au/items/1712304
