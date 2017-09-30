@@ -7,10 +7,14 @@
 * [오픈소스 SW 라이선스 종합정보시스템 (OLIS)] https://olis.or.kr/olis/olisMain.do
     * [라이선스 소개] https://olis.or.kr/license/introduction.do
     * [라이선스 종류] https://olis.or.kr/license/licenseClassiFication.do
+    
+* [네이버 지식백과] 오픈소스
 
-* [오픈소스 프로젝트 사례] Top 10 OpenSource Projects (www.opensource.com)
+* [위키백과] 오픈소스, 클로즈드 소스
 
-* [사용추세 및 현황] 가트너 (http://www.gartner.com)
+* [Top 10 OpenSource Projects (www.opensource.com)] 오픈소스 프로젝트 사례
+
+* [가트너 (http://www.gartner.com)] 오픈소스 사용추세 및 현황
 
 * History of free and open-source software, https://en.wikipedia.org/wiki/History_of_free_and_open-source_software
 
@@ -31,11 +35,3 @@
 * GNU 프로젝트, https://ko.wikipedia.org/wiki/GNU
 
 * GNU 선언문 한국어판, https://www.gnu.org/gnu/manifesto.ko.html
-
-* FSF, https://en.wikipedia.org/wiki/Free_Software_Foundation
-
-*  WWIV Image, http://www.watson.org/~robert/star-lit/wwiv/
-
-* USENET Image, https://ko.wikipedia.org/wiki/유즈넷
-
-* Free software movement, https://en.wikipedia.org/wiki/Free_software_movement
