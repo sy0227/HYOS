@@ -12,9 +12,11 @@
 
 * [위키백과] 오픈소스, 클로즈드 소스
 
-* [Top 10 OpenSource Projects (www.opensource.com)] 오픈소스 프로젝트 사례
+* [OSS Watch Team Blog] 오픈소스 소프트웨어 라이선스 동향 https://osswatch.jiscinvolve.org/wp/2015/02/05/open-source-software-licensing-trends/
 
-* [가트너 (http://www.gartner.com)] 오픈소스 사용추세 및 현황
+* [Top 10 OpenSource Projects] 오픈소스 프로젝트 사례 https://opensource.com/article/16/12/yearbook-top-10-open-source-projects
+
+* [가트너]  오픈소스 사용추세 및 현황 http://www.gartner.com
 
 * History of free and open-source software, https://en.wikipedia.org/wiki/History_of_free_and_open-source_software
 
