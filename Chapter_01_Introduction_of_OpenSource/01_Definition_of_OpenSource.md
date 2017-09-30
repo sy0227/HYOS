@@ -76,14 +76,29 @@
 초기에 아톰을 위한 확장 패키지와 아톰의 코어에 속하지 않는 사항들이 오픈 소스 라이선스로 공개되었다.
 2014년 5월 6일 코어 응용 프로그램을 포함한 아톰의 나머지 부분인 아톰의 패키지 관리자, 아톰의 크로미엄 기반 데스크톱 응용 프로그램 프레임워크, 일렉트론(Electron, 과거의 아톰 셸)이 MIT 라이선스 하의 자유 소프트웨어로 공개되었다.
 
+<p align="center">
+<img src = "https://dl.dropboxusercontent.com/s/zx8wfu0ou33awhz/atom.png" width="780" height="300">
+<p/>
+
+
 * FreeCAD
 > **FreeCAD**는 파이썬으로 작성되었으며 실제 객체의 설계 사양을 작성하는 데 사용할 수 있는 많은 컴퓨터 지원 설계 또는 컴퓨터 지원 제도 도구 중 하나이다.
 FreeCAD는 3D 개체에 대한 다양한 일반 형식에서 가져오고 내보낼 수 있으며 모듈 식 아키텍처를 사용하면 다양한 플러그인으로 기본 기능을 쉽게 확장할 수 있다.
+
+<p align="center">
+<img src = "https://dl.dropboxusercontent.com/s/9h6g2ni4tfbz65n/FreeCAD.png" width="425" height="119">
+<p/>
+
 
 * Kodi
 > **Kodi**는 비영리 기술 컨소시엄인 XBMC 재단이 개발한 free-open source media player 응용 소프트웨어이다.
 여러 운영 체제와 하드웨어 플랫폼을 지원하며 텔레비전과 리모컨 이용을 위한 인터페이스를 갖추고 있다.
 사용자가 비디오, 음악, 팟캐스트, 인터넷의 비디오, 로컬 및 네트워크 스토리지 미디어의 모든 디지털 미디어 파일을 포함, 대부분의 스트리밍 미디어를 재생하고 볼 수 있다.
+
+<p align="center">
+<img src = "https://dl.dropboxusercontent.com/s/iswzlmxibsjcs2o/Kodi.png" width="350" height="350">
+<p/>
+
 
 * Eclipse
 > **Eclipse**는 상업적으로 친숙한 오픈 소스 소프트웨어에 대한 공동 작업을 원하는 개인 및 조직을 위한 커뮤니티이다.
@@ -93,6 +108,10 @@ FreeCAD는 3D 개체에 대한 다양한 일반 형식에서 가져오고 내보
 이클립스 재단은 2004 년 1 월 이클립스 커뮤니티의 청지기 역할을 하는 독립 비영리 단체로 설립되었다.
 독립적인 비영리 단체는 Eclipse 주변에서 벤더 중립적이고 개방적이며 투명한 커뮤니티를 구축 할 수 있도록 만들어졌다.
 오늘날 이클립스 커뮤니티는 소프트웨어 업계의 여러 분야에서 개인과 조직으로 구성된다.
+
+<p align="center">
+<img src = "https://dl.dropboxusercontent.com/s/9ngexfx8it9bhm0/eclipse.png" width="800" height="188">
+<p/>
 
 <hr/>
 
