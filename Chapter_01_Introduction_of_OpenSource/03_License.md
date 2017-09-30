@@ -83,9 +83,9 @@ OSI는 오픈소스에 해당하는 라이선스의 최소한의 기준을 정�
 
 ## 라이선스 종류
 
-여러 라이선스 중 오픈소스 SW 라이선스 분포도에 나온 라이선스에 대해 소개한다.
+라이선스의 종류는 매우 다양하다. 모든 라이선스에 대해 소개를 하기에는 너무 양이 방대하므로 널리 사용되는 라이선스를 추려 소개한다.
 
-> GNU General Public License (GPL ; version 2.0과 3.0존재) (https://opensource.org/licenses/gpl-license)
+> GNU General Public License (GPL ; version 2.0과 3.0존재)
 * version 2.0 <br />
     자유 소프트웨어 재단(OSF)에서 만든 자유 소프트웨어 라이선스다. 미국의 리처드 스톨만(Richard Stallman)이 GNU-프로젝트로 배포된 프로그램의 라이선스로 사용하기 위해 작성했다.
 
@@ -95,42 +95,23 @@ OSI는 오픈소스에 해당하는 라이선스의 최소한의 기준을 정�
     * 변경된 컴퓨터 프로그램 역시 프로그램의 코드와 함께 자유로이 배포할 수 있다'라는 네 가지 조항을 명시하고 있다.
 
     대부분의 소프트웨어에 대한 라이선스는 소프트웨어를 공유하거나 수정할 수 있는 자유를 금지하기 위해 고안되었다. 반면에 GNU 일반 공중 라이선스는 자유 소프트웨어를 공유하고 수정할 수 있는 자유를 보장하기 위해 의도되었다. 즉, 소프트웨어가 사용자 모두에게 자유롭게 이용될 수 있도록 하는 것이다. 이 일반 공중 라이선스는 자유 소프트웨어 재단의 소프트웨어 대부분을 비롯하여, 저작자가 이 라이선스의 사용을 지정한 기타 모든 프로그램에 적용된다. (자유 소프트웨어 재단의 소프트웨어 중 일부는 이 라이선스 대신 GNU 라이브러리 일반 공중 라이선스가 적용된다.) 누구나 자신의 프로그램에 이 라이선스를 적용시킬 수 있다.
-(https://olis.or.kr/license/Detailselect.do?lId=1004&mapCode=010004)
-(https://opensource.org/licenses/GPL-2.0)
 * version 3.0 <br />
     자유 소프트웨어 재단(FSF)과 이 재단의 GNU 프로젝트에 의해 배포되며 GNU 소프트웨어에 적용되는 공개 소프트웨어의 대표적인 라이선스 체계이다. GNU GPL이라고도 하며, 저작권(copyright)의 반대라는 의미로 카피레프트(copyleft)라고도 한다. 라이선스 사용료나 사용상의 제약 조건을 자유롭게 하여 소프트웨어 유통을 활성화하기 위한 의도에서 출발한 것으로 GNU 소프트웨어로 공개되는 원시 부호는 누구나 변경 또는 일반 공중 라이선스(GPL)로 재배포하고, 이를 이용하여 상업적 웹 사이트를 구축할 수도 있다. 그렇다고 저작권의 완전한 포기를 의미하는 것은 아니어서 GPL의 기본 원칙과 공개하는 측이 정의한 바를 충실하게 따르도록 되어 있다. 1990년대에 마련된 GPL V2.0에 이어 2005년에 V3.0이 발표되었다. GPL 버전 3은 2007년 6월 29일에 발표되었다. 2005년 후반에 자유 소프트웨어 재단에서 GPL의 세번째 판을 개발할 것이라고 발표했다. 바뀐 점 중에서 가장 중요한 4가지를 말하자면, 소프트웨어 특허에 대처하는 것, 다른 라이선스와의 호환성, 어떤 부분의 원시 코드와 무엇이 GPL이 포함되어야 하는 원시 코드를 구성하는지와 디지털 제한 관리(Digital Restrictions Management)에 신경을 썼다.
-(https://olis.or.kr/license/Detailselect.do?lId=1072&mapCode=010072)
-(https://opensource.org/licenses/gpl-3.0.html)
 
 
 > GNU Library or Lesser General Public License (LGPL ; version 2.0과 2.1, 3.0 존재) (https://opensource.org/licenses/lgpl-license)
 * version 2.1 <br />
     라이브러리는 공유하되 개발된 제품에 대해서는 소스를 공개하지 않고 상용 SW 판매가 가능한 GPL 보다 완화된 라이선스를 말한다. GNU 약소 일반 공중 라이선스의 이름으로 공표된 최초의 버전이다. 본 라이선스는 GNU 라이브러리 일반 공중 라이선스 버전2의 후속판으로 간주되기 때문에 버전 번호를 2.1로 붙인 것이다.
-(https://olis.or.kr/license/Detailselect.do?lId=1005&mapCode=010005)
-(https://opensource.org/licenses/LGPL-2.1)
-
 * version 3.0 <br />
     라이브러리는 공유하되 개발된 제품에 대해서는 소스를 공개하지 않고 상용 SW 판매가 가능한 GPL 보다 완화된 라이선스를 말한다. 이 라이선스는 GNU 일반 공중 라이선스 버전 3에 추가된 추가 허용 사항들로 구성된다. GNU 약소 일반 공중 라이선스의 버전 3를 의미하며 GNU GPL은 GNU 일반 공중 라이선스의 버전3을 의미한다.
-(https://olis.or.kr/license/Detailselect.do?lId=1073&mapCode=010073)
-(https://opensource.org/licenses/LGPL-3.0)
+
 
 > BSD licenses
 * New and Simplified BSD licenses (2013년 이후 OSI 라이선스 제외) <br />
     캘리포니아 대학이 관장하고 있는 공개 라이선스 및 라이선스 문장. 유닉스(Unix) 의 양대 뿌리 중 하나인 버클리의 캘리포니아 대학에서 배포하는 공개 소프트웨어의 라이선스이다. GNU 자유 소프트웨어 재단의 일반 공중 라이선스(GPL)보다 훨씬 개방적인 4개항의 간단한 문구로 되어 있다. 그동안 sendmail을 비롯하여 수 많은 인터넷 관련 소프트웨어의 소스나 바이너리가 BSD 라이선스로 공개되어 소프트웨어 및 인터넷 발전에 기여한 바 크다. 이러한 정신은 FreeBSD, NetBSD, OpenBSD, BSDi 등 파생된 라이선스에서도 그대로 이어지고 있다.
-(https://olis.or.kr/license/Detailselect.do?lId=1003)
-
 * BSD 3-Clause <br />
     원본 라이선스가 종종"BSD-old" 로 참고되어지고 있는만큼, 여기서 파생된3-조항 버전은"BSD-new" 로 불리기도 한다. 다른 이름으로는"New BSD", "revised BSD", "BSD-3" 혹은"3-조항BSD" 이 있다. 참고로 "New BSD"라는 말을 쓰고는 있지만, BSD 라이선스의 가장 최신 버전은 아니다. 이 버전 이후 "Simplified BSD 라이선스"라고 알려진 BSD-2-Clause 버전이 나왔다. 2008년1월9일, OSI 이사회는 FreeBSD 등에 사용되며, 마지막의 "홍보 불가(no-endorsement)" 조항을 삭제하여 결과적으로MIT 라이선스와 거의 동등해진 "Simplified BSD 라이선스"를 승인했다.
-(https://olis.or.kr/license/Detailselect.do?lId=1092)
-(https://opensource.org/licenses/BSD-3-Clause)
-
 * BSD 2-Clause <br />
     좀 더 단순화된 버전의BSD 라이선스가 사용되게 되었는데 주로 알려진 이름은"FreeBSD" 이다. New BSD(3-조항) 라이선스와의 주된 차이점은 비보증 구문을 삭제하였다는 것이다.
-(https://olis.or.kr/license/Detailselect.do?lId=1093)
-(https://opensource.org/licenses/BSD-2-Clause)
 
-[오픈소스 SW 라이선스 종합정보시스템 (OLIS)]
-
-https://olis.or.kr/olis/olisMain.do
-(>>라이선스의 종류들과 다른 자료들 추가적으로 참고)
 <hr/>
