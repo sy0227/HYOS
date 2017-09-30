@@ -127,7 +127,7 @@ OSI는 오픈소스에 해당하는 라이선스의 최소한의 기준을 정�
 
 > Eclipse Public License
     Eclipse Public License (EPL)는 오픈소스라이선스로 Eclipse 재단에서 자사의 소프트웨어를 위해 사용된다. 이 라이선스는 Common Public License (CPL) 을 대체하며 특정용어등과 관련된 특허소송침해건을 제거했다. EPL은 GPL보다 약한 상호주의(copyleft)조항을 가지고 있어 기업친화적인 오픈소스 라이선스로 설계가 되었다.
-    
+<br />
     
 <p align ="center">
 <img src = "https://osswatch.jiscinvolve.org/wp/files/2015/02/figure1-1024x624.png" width="450" height="292.5">
