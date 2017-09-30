@@ -35,3 +35,11 @@
 * GNU 프로젝트, https://ko.wikipedia.org/wiki/GNU
 
 * GNU 선언문 한국어판, https://www.gnu.org/gnu/manifesto.ko.html
+
+* FSF, https://en.wikipedia.org/wiki/Free_Software_Foundation
+
+*  WWIV Image, http://www.watson.org/~robert/star-lit/wwiv/
+
+* USENET Image, https://ko.wikipedia.org/wiki/유즈넷
+
+* Free software movement, https://en.wikipedia.org/wiki/Free_software_movement
