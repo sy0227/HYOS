@@ -85,7 +85,7 @@ GNU 프로젝트를 접한 후, 스톨만의 'GNU General Public License version
 ### __Chrome OS__
 * 구글이 설계한 오픈 소스 운영 체제로 Linux 커널을 기반으로하며 Google 크롬 웹 브라우저를 주요 사용자 인터페이스로 사용하므로 Chrome OS는 기본적으로 웹 응용 프로그램을 지원한다.
 
-<img align="left" width="400" height="400" src="https://cdn.vox-cdn.com/thumbor/haMQeG4TqDC0seGH8-4NHPkiZxA=/0x0:660x440/920x613/filters:focal(278x168:382x272)/cdn.vox-cdn.com/uploads/chorus_image/image/53012847/chromelogo.0.0.jpg/400/400">
+![chrome](https://cdn.vox-cdn.com/thumbor/haMQeG4TqDC0seGH8-4NHPkiZxA=/0x0:660x440/920x613/filters:focal(278x168:382x272)/cdn.vox-cdn.com/uploads/chorus_image/image/53012847/chromelogo.0.0.jpg)
 
 Chrome OS는 부분적으로 오픈 소스 Chromium OS(크로미엄 OS)프로젝트 하에 개발되었다. 다른 오픈 소스 프로젝트와 마찬가지로 개발자는 Chromium OS의 코드를 수정하고 자체 버전을 만들 수 있지만 Chrome OS 코드는 Google 및 파트너 만 지원하며 목적을 위해 설계된 하드웨어에서만 실행된다. 또한 Chrome OS는 Chromium OS와는 달리 자동으로 최신 버전으로 업데이트한다.
 
@@ -96,7 +96,7 @@ Chrome OS는 부분적으로 오픈 소스 Chromium OS(크로미엄 OS)프로젝
 ### __Android__
 * 휴대 전화를 비롯한 휴대용 장치를 위한 운영 체제와 미들웨어, 사용자 인터페이스 그리고 표준 응용 프로그램(웹 브라우저, 이메일 클라이언트, 단문 메시지 서비스(SMS), 멀티미디어 메시지 서비스(MMS)등)을 포함하고 있는 소프트웨어 스택이자 모바일 운영 체제
 
-<img align="left" width="400" height="325" src="https://mobilemarketingwatch.com/wp-content/uploads/2016/11/android.png/400/325">
+![Android](https://mobilemarketingwatch.com/wp-content/uploads/2016/11/android.png)
 
 Java 언어로 응용 프로그램을 작성할 수 있게 함
 
