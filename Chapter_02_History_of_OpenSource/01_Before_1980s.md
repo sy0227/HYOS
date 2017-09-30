@@ -55,7 +55,11 @@ IBM의 메인프레임 컴퓨터(대형컴퓨터)들도 소스 코드가 포함�
 또다른 예로는 1975년 출시된 Tiny basic인데, 일반적으로 사용되는 BASIC의 기능을 축소하여 메모리가 작아도 사용 가능하도록 한 마이크로컴퓨터용 BASIC.이다.
 
 Tiny basic은 현재에도 사용되는 기기가 존재한다. (참고로, BASIC은 프로그래밍 언어이다.)
- 
+
+<p align = "center">
+<img src = "https://www.tinybasic.de/images/TinyBrickEvalBrd.jpg" width="400" height="400">
+</p>
+
 -----------------------------------
 
 ### 유닉스 및 C언어의 탄생
