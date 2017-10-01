@@ -66,7 +66,7 @@
 * 에릭 S 레이몬드, https://en.wikipedia.org/wiki/Eric_S._Raymond
 
 * 오픈소스: 오픈소스 혁명의 목소리 vol1, vol2
-=======
+
 * Linux, https://en.wikipedia.org/wiki/Linux
 
 * Linux Kernel, https://en.wikipedia.org/wiki/Linux_kernel
@@ -75,4 +75,3 @@
 
 * Eric S. Raymond, https://en.wikipedia.org/wiki/Eric_S._Raymond
 
->>>>>>> dfff9b4ff84bd9ec4dcf28fc097e49d08b4eab43
