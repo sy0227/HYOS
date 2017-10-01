@@ -46,6 +46,7 @@
 
 * Free software movement, https://en.wikipedia.org/wiki/Free_software_movement
 
+<<<<<<< HEAD
 * RedHat, http://terms.naver.com/entry.nhn?docId=3580446&cid=59088&categoryId=59096, https://www.redhat.com/ko/resources/red-hat-company-timeline-our-history-infographic
 
 * Android, https://ko.wikipedia.org/wiki/안드로이드_(운영_체제)
@@ -58,6 +59,20 @@
 
 * Linux, https://ko.wikipedia.org/wiki/리눅스, https://en.wikipedia.org/wiki/Linux
 
+* Linux Kernel, https://en.wikipedia.org/wiki/Linux_kernel
+
 * 리처드 스톨만, 리누스 토르발스, https://ko.wikipedia.org/wiki/리처드_스톨먼, https://en.wikipedia.org/wiki/Linus_Torvalds
 
+* 에릭 S 레이몬드, https://en.wikipedia.org/wiki/Eric_S._Raymond
+
 * 오픈소스: 오픈소스 혁명의 목소리 vol1, vol2
+=======
+* Linux, https://en.wikipedia.org/wiki/Linux
+
+* Linux Kernel, https://en.wikipedia.org/wiki/Linux_kernel
+
+* OSI(Open Source Initiative), https://en.wikipedia.org/wiki/Open_Source_Initiative
+
+* Eric S. Raymond, https://en.wikipedia.org/wiki/Eric_S._Raymond
+
+>>>>>>> dfff9b4ff84bd9ec4dcf28fc097e49d08b4eab43
