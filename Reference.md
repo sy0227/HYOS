@@ -58,6 +58,10 @@
 
 * Linux, https://ko.wikipedia.org/wiki/리눅스, https://en.wikipedia.org/wiki/Linux
 
+* Linux Kernel, https://en.wikipedia.org/wiki/Linux_kernel
+
 * 리처드 스톨만, 리누스 토르발스, https://ko.wikipedia.org/wiki/리처드_스톨먼, https://en.wikipedia.org/wiki/Linus_Torvalds
+
+* 에릭 S 레이몬드, https://en.wikipedia.org/wiki/Eric_S._Raymond
 
 * 오픈소스: 오픈소스 혁명의 목소리 vol1, vol2
