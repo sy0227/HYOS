@@ -1,13 +1,13 @@
 # 참고문헌
 
 * [Open Source Initiative (OSI)] https://opensource.org/
-    * [Open Source Definition] https://opensource.org/osd
+    * [Open Source Definition] https://opensource.org/osd, http://terms.naver.com/entry.nhn?docId=3436157&cid=42346&categoryId=42346
     * [Licenses by name] https://opensource.org/licenses/alphabetical
-    
+
 * [오픈소스 SW 라이선스 종합정보시스템 (OLIS)] https://olis.or.kr/olis/olisMain.do
     * [라이선스 소개] https://olis.or.kr/license/introduction.do
     * [라이선스 종류] https://olis.or.kr/license/licenseClassiFication.do
-    
+
 * [네이버 지식백과] 오픈소스
 
 * [위키백과] 오픈소스, 클로즈드 소스
@@ -45,3 +45,34 @@
 * USENET Image, https://ko.wikipedia.org/wiki/유즈넷
 
 * Free software movement, https://en.wikipedia.org/wiki/Free_software_movement
+
+<<<<<<< HEAD
+* RedHat, http://terms.naver.com/entry.nhn?docId=3580446&cid=59088&categoryId=59096, https://www.redhat.com/ko/resources/red-hat-company-timeline-our-history-infographic
+
+* Android, https://ko.wikipedia.org/wiki/안드로이드_(운영_체제)
+
+* Chrome OS, https://en.wikipedia.org/wiki/Chrome_OS
+
+* Google, https://ko.wikipedia.org/wiki/구글
+
+* Git, https://en.wikipedia.org/wiki/Git, https://git-scm.com
+
+* Linux, https://ko.wikipedia.org/wiki/리눅스, https://en.wikipedia.org/wiki/Linux
+
+* Linux Kernel, https://en.wikipedia.org/wiki/Linux_kernel
+
+* 리처드 스톨만, 리누스 토르발스, https://ko.wikipedia.org/wiki/리처드_스톨먼, https://en.wikipedia.org/wiki/Linus_Torvalds
+
+* 에릭 S 레이몬드, https://en.wikipedia.org/wiki/Eric_S._Raymond
+
+* 오픈소스: 오픈소스 혁명의 목소리 vol1, vol2
+=======
+* Linux, https://en.wikipedia.org/wiki/Linux
+
+* Linux Kernel, https://en.wikipedia.org/wiki/Linux_kernel
+
+* OSI(Open Source Initiative), https://en.wikipedia.org/wiki/Open_Source_Initiative
+
+* Eric S. Raymond, https://en.wikipedia.org/wiki/Eric_S._Raymond
+
+>>>>>>> dfff9b4ff84bd9ec4dcf28fc097e49d08b4eab43
