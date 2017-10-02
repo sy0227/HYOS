@@ -159,7 +159,7 @@
 
 ## Chapter 01. 오픈소스 소개
 
-### Section2 : 오픈소스의 사용현황
+### Section2 : 오픈소스의 사용추세
 
 * 사용현황
 * 급증 이유
@@ -187,7 +187,10 @@ IDC에 따르면, 전세계 OSS 시장은 지난 2013년 445억 달러에서 오
 <p align="center">
 <img src = "http://dl.dropbox.com/s/fx8hnme8fab1v4i/national.png" width="450" height="292.5">
 <p/>
+<hr/>
 
+
+## 급증이유
 
 ## 급증 이유
 
