@@ -46,7 +46,6 @@
 
 * Free software movement, https://en.wikipedia.org/wiki/Free_software_movement
 
-<<<<<<< HEAD
 * RedHat, http://terms.naver.com/entry.nhn?docId=3580446&cid=59088&categoryId=59096, https://www.redhat.com/ko/resources/red-hat-company-timeline-our-history-infographic
 
 * Android, https://ko.wikipedia.org/wiki/안드로이드_(운영_체제)
