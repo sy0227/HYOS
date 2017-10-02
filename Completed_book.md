@@ -100,7 +100,7 @@
 > **Atom**은 자유-오픈 소스 형태의 OS X, 리눅스, Window용 문서 및 소스 코드 편집기이다. 대부분의 확장 패키지는 자유 소프트웨어 라이선스를 취하며 커뮤니티가 만들고 관리하고 있다. 아톰은 크로미엄에 기반을 두며 카피스크립트로 작성되어 있다. 초기에 아톰을 위한 확장 패키지와 아톰의 코어에 속하지 않는 사항들이 오픈 소스 라이선스로 공개되었다. 2014년 5월 6일, 코어 응용 프로그램을 포함한 아톰의 나머지 부분인 아톰의 패키지 관리자, 아톰의 크로미엄 기반 데스크톱 응용 프로그램 프레임워크, 일렉트론(Electron, 과거의 아톰 셸)이 MIT 라이선스 하의 자유 소프트웨어로 공개되었다.
 
 <p align="center">
-<img src = "https://dl.dropboxusercontent.com/s/zx8wfu0ou33awhz/atom.png" width="490" height="150">
+<img src = "https://dl.dropboxusercontent.com/s/zx8wfu0ou33awhz/atom.png" width="490" height="180">
 <p/>
 
 
@@ -116,7 +116,7 @@
 > **Kodi**는 비영리 기술 컨소시엄인 XBMC 재단이 개발한 free-open source media player 응용 소프트웨어이다. 여러 운영 체제와 하드웨어 플랫폼을 지원하며 텔레비전과 리모컨 이용을 위한 인터페이스를 갖추고 있다. 사용자가 비디오, 음악, 팟캐스트, 인터넷의 비디오, 로컬 및 네트워크 스토리지 미디어의 모든 디지털 미디어 파일을 포함, 대부분의 스트리밍 미디어를 재생하고 볼 수 있다.
 
 <p align="center">
-<img src = "https://dl.dropboxusercontent.com/s/iswzlmxibsjcs2o/Kodi.png" width="350" height="350">
+<img src = "https://dl.dropboxusercontent.com/s/iswzlmxibsjcs2o/Kodi.png" width="300" height="300">
 <p/>
 
 
@@ -729,7 +729,7 @@ Microsoft의 제품인 Altair BASIC 을 광범위하게 공유하는 모습 때�
 ### GNU(GNU is Not UNIX)프로젝트
 
 <p align ="center">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/HURD_Live_CD.png/500px-HURD_Live_CD.png" width="400" height="300">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/HURD_Live_CD.png/500px-HURD_Live_CD.png" width="450" height="337.5">
 </p>
 
 <p align = "center">" GNU 허드로 가동된 모습 "</p>
@@ -787,7 +787,7 @@ GNU 선언문의 내용은 처음에는 프로젝트의 진행에 따라 조금�
 
 
 <p align ="center">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Free_Software_Foundation_logo_and_wordmark.svg/500px-Free_Software_Foundation_logo_and_wordmark.svg.png" width="500" height="120">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Free_Software_Foundation_logo_and_wordmark.svg/500px-Free_Software_Foundation_logo_and_wordmark.svg.png" width="650" height="120">
 </p>
 
 
@@ -836,7 +836,7 @@ GNU 선언문의 내용은 처음에는 프로젝트의 진행에 따라 조금�
 소스 코드는 등록된 사용자들에게 배포되어, 사용자들이 직접 그 소프트웨어를 공유하고 컴파일하여 새로운 버전의 소프트웨어를 다시 만들기도 하였다.
 
 <p align ="center">
-<img src = "http://www.watson.org/~robert/star-lit/wwiv/20070315-main-menu.png" width="400" height="300">
+<img src = "http://www.watson.org/~robert/star-lit/wwiv/20070315-main-menu.png" width="450" height="337.5">
 </p>
 
 <p align = "center">" WWIV 화면 "</p>
@@ -854,7 +854,7 @@ GNU 선언문의 내용은 처음에는 프로젝트의 진행에 따라 조금�
 프로그래머들이 소프트웨어를 공유하고 다른 사람이 작성한 소프트웨어에 더 쉽게 기여할 수있게 되었다.
 
 <p align ="center">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Slrn.png/500px-Slrn.png" width="400" height="300">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Slrn.png/500px-Slrn.png" width="450" height="337.5">
 </p>
 
 <p align = "center">" Usenet 화면 "</p>
@@ -888,7 +888,7 @@ GNU 선언문의 내용은 처음에는 프로젝트의 진행에 따라 조금�
 
 ## 리눅스
 <p align="center">
-<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width ="500" height="400">
+<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width ="450" height="500">
 </p>
 
 * 리누스 토발즈(Linus Torvalds)가 만든 컴퓨터 운영 체제, 혹은 그 커널을 의미하며, 리눅스는 다중 사용자, 다중 작업(멀티태스킹), 다중 스레드를 지원하는 네트워크 운영 체제(NOS)이다.
@@ -954,7 +954,7 @@ Netscape가 제품을 자유 소프트웨어로 공개하면서 사람들은 자
 ## 오픈 소스 이니셔티브 (OSI, Open Source Initiative)
 
 <p align ="center">
-<img src="http://files.itworld.co.kr/files/editor_img/200904/opensource_logo.gif">
+<img src="http://dl.dropbox.com/s/lbje87tdvn9wg85/osi_symbol.png" width="350" heith="350">
 </p>
 
 * 오픈 소스 정의(OSD)의 관리 및 촉진을 담당하는 비영리 조합
@@ -1039,7 +1039,7 @@ OSI가 인증하는 오픈 소스 소프트웨어(OSS) 인증 마크를 통해 �
 
 학창시절인 1965년부터 1969년까지 컴퓨터를 접하며 프로그래밍을 배웠고,
 
-1971년부터 매사추세츠 공과대학 인공지능 연구소에서 '해커1)'로 일하기 시작했다.
+1971년부터 매사추세츠 공과대학 인공지능 연구소에서 해커로 일하기 시작했다.
 
 그는 이 시기를 회고하면서 “요리법을 공유하는 것이 요리의 역사만큼 오래된 것처럼, 소프트웨어를 공유하는 것은 컴퓨터의 역사만큼 오래된 것이었다. 우리(해커들)는 MIT에서 소프트웨어를 공유하는 이상적인 공동체를 만들었다"고 말했다.
 
@@ -1065,7 +1065,7 @@ GNU 선언문을 발표한 후에는, GNU 프로젝트를 지원하기 위해 �
 <img src = "http://www.techholic.co.kr/news/photo/201604/52071_23290_1200.jpg" width="350" height="280">
 </p>
 
-리누스 토발즈는 1969년, 12월 28일 핀란드의 헬싱키에서 태어났다.
+리누스 토발즈는 1969년 12월 28일, 핀란드의 헬싱키에서 태어났다.
 
 어린 시절, 리누스 토발즈의 집안은 넉넉하지 못했고 부모가 이혼을 하는 등, 가정도 다소 불안한 편이었다.
 
@@ -1097,7 +1097,7 @@ GNU 프로젝트를 접한 후, 스톨만의 'GNU General Public License version
 >DVCS : 분산 버전 관리 시스템이란, CVCS(중앙집중식 버전 관리 시스템)과 다르게 각 개발자가 중앙 서버에 접속하지 않은 상태에서도 코드 작업을 할 수 있는 것이 특징이다.
 
 <p align ="center">
-<img src = "https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="455" height="190">
+<img src = "https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="300" height="125">
 </p>
 
 대부분의 클라이언트 - 서버 시스템과 달리, 모든 컴퓨터의 모든 Git 디렉토리 는 네트워크 액세스 나 중앙 서버와 관계없이 완전한 기록 추적 및 전체 버전 추적 기능을 갖춘 저장소이다.
@@ -1116,7 +1116,7 @@ GNU 프로젝트를 접한 후, 스톨만의 'GNU General Public License version
 * 구글은 전 세계 60개국 이상에 지사를 두고, 130개가 넘는 언어로 검색 인터페이스를 제공하고 있다.
 
 <p align ="center">
-<img src = "https://www.blog.google/images/download/DvujqGIr46dew-phGARpDy8bMSQ=/1095/original/Google_Logo.png" width="400" height="285">
+<img src = "http://dl.dropbox.com/s/j0a7uim9ekgdp08/google.PNG" width="400" height="185">
 </p>
 
 * 연혁
@@ -1139,7 +1139,7 @@ GNU 프로젝트를 접한 후, 스톨만의 'GNU General Public License version
 * Google 크롬 웹 브라우저를 주요 사용자 인터페이스로 사용하므로 Chrome OS는 기본적으로 웹 응용 프로그램을 지원한다.
 
 <p align ="center">
-<img src = "https://cdn.vox-cdn.com/thumbor/haMQeG4TqDC0seGH8-4NHPkiZxA=/0x0:660x440/920x613/filters:focal(278x168:382x272)/cdn.vox-cdn.com/uploads/chorus_image/image/53012847/chromelogo.0.0.jpg" width="600" height="400">
+<img src = "https://cdn.vox-cdn.com/thumbor/haMQeG4TqDC0seGH8-4NHPkiZxA=/0x0:660x440/920x613/filters:focal(278x168:382x272)/cdn.vox-cdn.com/uploads/chorus_image/image/53012847/chromelogo.0.0.jpg" width="450" height="300">
 </p>
 
 Chrome OS는 부분적으로 오픈 소스 Chromium OS(크로미엄 OS)프로젝트 하에 개발되었다.
@@ -1162,7 +1162,7 @@ Chrome OS는 부분적으로 오픈 소스 Chromium OS(크로미엄 OS)프로젝
 * 사용자 인터페이스 그리고 표준 응용 프로그램(웹 브라우저, 이메일 클라이언트, 단문 메시지 서비스(SMS), 멀티미디어 메시지 서비스(MMS)등)을 포함하고 있는 소프트웨어 스택이자 모바일 운영 체제
 
 <p align ="center">
-<img src = "https://mobilemarketingwatch.com/wp-content/uploads/2016/11/android.png" width="450" height="365">
+<img src = "http://dl.dropbox.com/s/c4ywxn5qh0oh105/Android.PNG" width="300" height="400">
 </p>
 
 Java 언어로 응용 프로그램을 작성할 수 있게 함
@@ -1196,7 +1196,7 @@ Java 언어로 응용 프로그램을 작성할 수 있게 함
 타사 기술과 함께 이용할 수 있도록 호환성을 높이기도 했다. 또한 별도의 교육 프로그램을 운영해 오픈소스 기술의 전문성을 높일 수 있도록 지원하고 있다.
 
 <p align ="center">
-<img src = "http://www.bloter.net/wp-content/uploads/2016/04/navercast_redhat_01_redhat_logo-765x261.png">
+<img src = "http://dl.dropbox.com/s/mmv2l21u5fmzvuy/redhat.png" width="400" height="120">
 </p>
 
 * 연혁
