@@ -1219,6 +1219,8 @@ Java 언어로 응용 프로그램을 작성할 수 있게 함
 > 시그너스 솔루션즈(Cygnus Solutions):
 1989에 자유 소프트웨어의 상업적인 지원을 위해 John Gilmore, Michael Tiemann and David Henkel-Wallace가 설립한 회사이다.
 
+----
+----
 
 # 참고문헌
 
