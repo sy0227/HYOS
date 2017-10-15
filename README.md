@@ -20,11 +20,11 @@
 
 이 책은 오픈소스 방법론을 따라 제작된 책 형식이기 때문에 모든 자료와 참고링크는 다음과 같은 링크에서 확인할 수 있습니다.
 
-* ![HYOS](https://github.com/gunoong011/HYOS) : 전반적인 책자에 관한 내용을 볼 수가 있습니다.
+* [HYOS](https://github.com/gunoong011/HYOS) : 전반적인 책자에 관한 내용을 볼 수가 있습니다.
 
-* ![HYOS_data](https://github.com/gunoong011/HYOS_data) : 책자에 쓰인 자료 등을 볼 수가 있습니다.
+* [HYOS_data](https://github.com/gunoong011/HYOS_data) : 책자에 쓰인 자료 등을 볼 수가 있습니다.
 
-* ![HYOS_gitbook](https://github.com/gunoong011/HYOS_gitbook) : 직접적으로 책을 어떻게 페이지로 나누고 구분했는지에 대해 알 수 있는 링크입니다.
+* [HYOS_gitbook](https://github.com/gunoong011/HYOS_gitbook) : 직접적으로 책을 어떻게 페이지로 나누고 구분했는지에 대해 알 수 있는 링크입니다.
 
 ## 오픈소스 책자
 
