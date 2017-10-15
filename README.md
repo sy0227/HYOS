@@ -30,4 +30,4 @@
 
 완성본의 책은 다음의 링크에서 확인할 수 있습니다
 
-* ![HYOS_completed_book](https://www.gitbook.com/book/habby9000/open-source/details) : PDF, ePub, Mobi 등의 파일 형태로 다운받아 보실 수 있습니다.
+* [HYOS_completed_book](https://www.gitbook.com/book/habby9000/open-source/details) : PDF, ePub, Mobi 등의 파일 형태로 다운받아 보실 수 있습니다.
